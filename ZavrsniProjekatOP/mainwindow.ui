@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(255, 228, 229)</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="gridLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>70</y>
+      <width>661</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="1" column="1">
+      <widget class="QPushButton" name="Pitanje_7">
+       <property name="text">
+        <string>Pitanje 7</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="2">
+      <widget class="QPushButton" name="Pitanje_23">
+       <property name="text">
+        <string>Pitanje 23</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QPushButton" name="Pitanje_12">
+       <property name="text">
+        <string>Pitanje 12</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QPushButton" name="Pitanje_3">
+       <property name="text">
+        <string>Pitanje 3</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="2">
+      <widget class="QPushButton" name="Pitanje_8">
+       <property name="text">
+        <string>Pitanje 8</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="3">
+      <widget class="QPushButton" name="Pitanje_4">
+       <property name="text">
+        <string>Pitanje 4</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="2">
+      <widget class="QPushButton" name="Pitanje_13">
+       <property name="text">
+        <string>Pitanje 13</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="2">
+      <widget class="QPushButton" name="Pitanje_18">
+       <property name="text">
+        <string>Pitanje 18</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="4">
+      <widget class="QPushButton" name="Pitanje_25">
+       <property name="text">
+        <string>Pitanje 25</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="0">
+      <widget class="QPushButton" name="Pitanje_1">
+       <property name="text">
+        <string>Pitanje 1</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QPushButton" name="Pitanje_2">
+       <property name="text">
+        <string>Pitanje 2</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="4">
+      <widget class="QPushButton" name="Pitanje_5">
+       <property name="text">
+        <string>Pitanje 5</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="3">
+      <widget class="QPushButton" name="Pitanje_9">
+       <property name="text">
+        <string>Pitanje 9</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="4">
+      <widget class="QPushButton" name="Pitanje_10">
+       <property name="text">
+        <string>Pitanje 10</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QPushButton" name="Pitanje_11">
+       <property name="text">
+        <string>Pitanje 11</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="3">
+      <widget class="QPushButton" name="Pitanje_14">
+       <property name="text">
+        <string>Pitanje 14</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="4">
+      <widget class="QPushButton" name="Pitanje_15">
+       <property name="text">
+        <string>Pitanje 15</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="0">
+      <widget class="QPushButton" name="Pitanje_16">
+       <property name="text">
+        <string>Pitanje 16</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="1">
+      <widget class="QPushButton" name="Pitanje_17">
+       <property name="text">
+        <string>Pitanje 17</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="3">
+      <widget class="QPushButton" name="Pitanje_19">
+       <property name="text">
+        <string>Pitanje 19</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="4">
+      <widget class="QPushButton" name="Pitanje_20">
+       <property name="text">
+        <string>Pitanje 20</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="0">
+      <widget class="QPushButton" name="Pitanje_21">
+       <property name="text">
+        <string>Pitanje 21</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="1">
+      <widget class="QPushButton" name="Pitanje_22">
+       <property name="text">
+        <string>Pitanje 22</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QPushButton" name="Pitanje_6">
+       <property name="text">
+        <string>Pitanje 6</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="3">
+      <widget class="QPushButton" name="Pitanje_24">
+       <property name="text">
+        <string>Pitanje 24</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>380</y>
+      <width>261</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QLabel" name="Student">
+       <property name="text">
+        <string>Student:</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="baza">
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>460</y>
+      <width>251</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QProgressBar" name="progressBar">
+       <property name="value">
+        <number>24</number>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="zavrsi">
+       <property name="text">
+        <string>Zavrsi</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QPushButton" name="zatvori">
+    <property name="geometry">
+     <rect>
+      <x>720</x>
+      <y>0</y>
+      <width>75</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Zatvori</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuStart">
+    <property name="title">
+     <string>Start</string>
+    </property>
+    <addaction name="actionLog_In"/>
+   </widget>
+   <widget class="QMenu" name="menuPregled">
+    <property name="title">
+     <string>Pregled</string>
+    </property>
+    <addaction name="actionPregled_2"/>
+   </widget>
+   <addaction name="menuStart"/>
+   <addaction name="menuPregled"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="acceptDrops">
+    <bool>true</bool>
+   </property>
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionLog_in"/>
+   <addaction name="separator"/>
+   <addaction name="actionPregled"/>
+  </widget>
+  <action name="actionLog_In">
+   <property name="icon">
+    <iconset resource="Resources.qrc">
+     <normaloff>:/cat.png</normaloff>:/cat.png</iconset>
+   </property>
+   <property name="text">
+    <string>Log In</string>
+   </property>
+  </action>
+  <action name="actionLog_in">
+   <property name="icon">
+    <iconset resource="Resources.qrc">
+     <normaloff>:/cat.png</normaloff>:/cat.png</iconset>
+   </property>
+   <property name="text">
+    <string>Log in</string>
+   </property>
+  </action>
+  <action name="actionPregled">
+   <property name="icon">
+    <iconset resource="Resources.qrc">
+     <normaloff>:/list.jpg</normaloff>:/list.jpg</iconset>
+   </property>
+   <property name="text">
+    <string>Pregled</string>
+   </property>
+  </action>
+  <action name="actionPregled_2">
+   <property name="text">
+    <string>Pregled</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="Resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>
